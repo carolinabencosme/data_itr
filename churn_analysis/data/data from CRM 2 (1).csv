@@ -1,0 +1,421 @@
+ITR Id,Status,Sub_status,ITR_Close_Date,Activation_Date__c,Pre_Activation_Date__c
+7777627,Resolution Docs Requested,,,,
+7387969,Pre-Activation,,,,
+4356708,Case Completed Successful,,,,
+3999805,Case Completed Failed,Unresponsive,2025-08-31,,
+4863167,Activation Call,,,,
+5167985,Case Completed Failed,Unresponsive,2024-09-23,2024-10-13,2024-10-02
+3235470,Active,,,,
+2452545,Case Completed Successful,,,2024-12-10,2024-11-27
+5213614,Case Completed Failed,Non-Compliance,2025-03-16,,
+7426807,Activation Call,,,2025-05-16,2025-04-30
+9905557,Case Completed Failed,Due to Non Payment,2025-07-05,,
+2507202,Case Completed Successful,,,2025-04-24,2025-04-12
+9208671,Case Completed Failed,Unresponsive,2026-03-31,,
+4346519,Case Completed Successful,,,2024-12-17,2024-12-10
+8073933,Tax Prep Docs Requested,,,,
+4635493,Active,,,,
+7274339,Case Completed Successful,,,,
+7511436,Pre-Activation,,,,
+4566682,Resolution Docs Requested,,,,
+3554776,Case Completed Successful,,,,
+8742404,Pre-Activation,,,2025-08-23,2025-08-11
+4003137,Case Completed Failed,Financial Hardship,2024-12-04,2024-12-06,2024-11-22
+6684233,Case Completed Failed,Dissatisfaction,2025-07-22,2025-03-02,2025-02-16
+2391930,Active,,,2025-01-05,2024-12-16
+9870385,Active,,,,
+2473076,Pre-Activation,,,,
+8869169,Resolution Docs Requested,,,2024-10-09,2024-09-20
+6307954,Case Completed Failed,Dissatisfaction,2025-07-12,,
+7754888,Resolution Docs Requested,,,,
+1715572,Tax Prep Docs Requested,,,2025-02-05,2025-01-19
+5519768,Active,,,2024-10-04,2024-09-22
+1127838,Active,,,,
+8133772,Case Completed Failed,Non-Compliance,2024-10-11,2024-12-08,2024-11-26
+4418599,Case Completed Failed,Went directly through IRS,2025-01-23,2025-03-23,2025-03-15
+7082268,Tax Prep Docs Requested,,,2025-02-06,2025-01-29
+9964234,Tax Prep Docs Requested,,,2025-03-14,2025-02-27
+2355874,Case Completed Failed,Financial Hardship,2025-09-24,,
+8752528,Pre-Activation,,,2025-08-11,2025-07-30
+9701586,Case Completed Successful,,,,
+4323229,Case Completed Failed,Dissatisfaction,2025-02-12,,
+8762825,Case Completed Failed,Health Issues,2025-06-19,,
+1860969,Activation Call,,,2025-03-14,2025-02-21
+6998272,Resolution Docs Requested,,,,
+3166605,Resolution Docs Requested,,,2025-05-29,2025-05-20
+4620914,Resolution Docs Requested,,,2025-06-02,2025-05-17
+3697976,Resolution Docs Requested,,,2025-10-01,2025-09-24
+8410741,Case Completed Successful,,,2025-09-15,2025-08-25
+3980060,Case Completed Successful,,,,
+9442218,Resolution Docs Requested,,,2025-07-31,2025-07-24
+3953174,Activation Call,,,,
+1621800,Case Completed Successful,,,2025-07-12,2025-06-24
+2842011,Active,,,2025-04-06,2025-03-16
+1390973,Case Completed Successful,,,2025-03-14,2025-03-06
+3872045,Case Completed Successful,,,,
+8947818,Case Completed Failed,Non-Compliance,2025-04-07,,
+8030041,Case Completed Successful,,,2025-08-19,2025-08-09
+2361641,Tax Prep Docs Requested,,,2025-11-08,2025-10-30
+8137367,Pre-Activation,,,2025-03-20,2025-03-10
+2443157,Active,,,,
+3397658,Active,,,,
+6197697,Active,,,2025-08-16,2025-08-06
+1095092,Case Completed Failed,Due to Non Payment,2025-07-15,,
+7393151,Case Completed Successful,,,2025-08-24,2025-08-14
+6531409,Active,,,2025-05-13,2025-05-06
+3278616,Case Completed Failed,Went directly through IRS,2025-11-04,,
+9781229,Active,,,2024-08-24,2024-08-10
+7800313,Case Completed Successful,,,2025-06-13,2025-05-24
+4368771,Tax Prep Docs Requested,,,,
+1929456,Case Completed Successful,,,2024-08-08,2024-07-30
+4547293,Case Completed Successful,,,,
+8431849,Case Completed Failed,Due to Non Payment,2025-02-25,,
+5321417,Resolution Docs Requested,,,,
+7779130,Active,,,,
+3119816,Case Completed Successful,,,,
+6935921,Tax Prep Docs Requested,,,,
+8988360,Active,,,2024-12-01,2024-11-22
+1936465,Activation Call,,,2025-05-08,2025-05-01
+3196589,Case Completed Successful,,,2025-09-17,2025-09-08
+3523964,Case Completed Failed,Financial Hardship,2025-01-09,2024-11-24,2024-11-11
+7850128,Resolution Docs Requested,,,,
+3086531,Active,,,2025-05-12,2025-05-05
+2618720,Case Completed Failed,No longer needs service,2025-03-20,2024-11-09,2024-10-31
+2991703,Activation Call,,,,
+3410255,Tax Prep Docs Requested,,,2025-04-08,2025-03-24
+5965616,Case Completed Successful,,,,
+3921501,Case Completed Successful,,,2025-07-20,2025-07-05
+3980397,Activation Call,,,2025-02-03,2025-01-20
+7876554,Active,,,2025-02-16,2025-02-01
+3441276,Resolution Docs Requested,,,2025-07-24,2025-07-08
+4482603,Pre-Activation,,,2025-07-09,2025-06-26
+6353718,Case Completed Failed,Dissatisfaction,2024-11-19,,
+9374071,Case Completed Successful,,,,
+4924292,Case Completed Failed,Non-Compliance,2025-10-23,,
+5321788,Case Completed Failed,No longer needs service,2025-05-28,,
+2966512,Case Completed Successful,,,2025-08-26,2025-08-18
+7068362,Tax Prep Docs Requested,,,2025-06-17,2025-06-01
+4119755,Active,,,2025-04-27,2025-04-20
+2214493,Active,,,2024-10-06,2024-09-16
+9409291,Tax Prep Docs Requested,,,,
+5827044,Active,,,2024-10-24,2024-10-07
+1187040,Activation Call,,,,
+1799898,Case Completed Failed,No longer needs service,2025-07-12,2025-09-20,2025-09-09
+6661219,Active,,,,
+4629283,Active,,,,
+7324578,Active,,,2025-05-19,2025-04-28
+7695800,Tax Prep Docs Requested,,,2025-04-20,2025-04-05
+6649794,Active,,,,
+7700989,Case Completed Successful,,,2025-11-25,2025-11-15
+7474998,Resolution Docs Requested,,,2025-05-20,2025-05-02
+7946861,Resolution Docs Requested,,,2024-11-06,2024-10-27
+7223954,Tax Prep Docs Requested,,,2024-12-14,2024-11-24
+9965205,Resolution Docs Requested,,,2025-06-15,2025-06-04
+2554649,Active,,,2024-12-08,2024-11-29
+4040458,Pre-Activation,,,,
+1630697,Pre-Activation,,,2024-12-03,2024-11-17
+7257827,Case Completed Failed,Financial Hardship,2025-05-12,,
+7687060,Case Completed Successful,,,,
+8448644,Case Completed Successful,,,2025-01-25,2025-01-05
+4862279,Case Completed Failed,Due to Non Payment,2025-03-04,,
+6224739,Pre-Activation,,,2025-03-27,2025-03-11
+4792419,Resolution Docs Requested,,,2025-07-23,2025-07-03
+6211949,Pre-Activation,,,,
+2774169,Case Completed Successful,,,2025-12-09,2025-11-23
+6266919,Activation Call,,,,
+4667565,Case Completed Failed,Due to Non Payment,2024-09-24,,
+5189616,Resolution Docs Requested,,,2025-09-09,2025-09-01
+7434977,Pre-Activation,,,,
+5972376,Case Completed Failed,Financial Hardship,2025-11-23,,
+8350523,Case Completed Successful,,,,
+2344309,Case Completed Successful,,,,
+8345330,Active,,,2024-08-29,2024-08-21
+8065039,Activation Call,,,2025-09-10,2025-08-29
+5298533,Tax Prep Docs Requested,,,2025-03-23,2025-03-14
+2168980,Active,,,,
+9441467,Case Completed Failed,Non-Compliance,2025-09-24,,
+5916224,Resolution Docs Requested,,,2025-09-12,2025-09-03
+6378704,Case Completed Successful,,,2025-03-24,2025-03-16
+9004382,Resolution Docs Requested,,,,
+9946351,Case Completed Failed,Due to Non Payment,2025-05-07,,
+3135411,Case Completed Failed,Went directly through IRS,2025-05-01,,
+5308988,Active,,,2024-12-17,2024-12-08
+8229670,Pre-Activation,,,,
+5880196,Active,,,2024-10-03,2024-09-22
+7867459,Active,,,2025-08-04,2025-07-27
+3674620,Pre-Activation,,,,
+5736054,Resolution Docs Requested,,,,
+7357871,Active,,,2025-02-07,2025-01-25
+8382872,Active,,,2025-10-04,2025-09-24
+4262697,Pre-Activation,,,2025-06-26,2025-06-06
+7372398,Pre-Activation,,,,
+6651356,Active,,,2025-10-30,2025-10-10
+4316133,Active,,,2024-12-05,2024-11-14
+6794558,Active,,,2025-10-04,2025-09-18
+1072331,Case Completed Failed,Due to Non Payment,2025-03-20,,
+6960763,Resolution Docs Requested,,,,
+5956011,Case Completed Successful,,,2025-01-15,2025-01-05
+4242649,Case Completed Failed,Non-Compliance,2024-07-17,2024-09-15,2024-09-02
+3879957,Resolution Docs Requested,,,2025-08-20,2025-08-12
+5378570,Tax Prep Docs Requested,,,,
+7991279,Activation Call,,,2025-03-23,2025-03-12
+4879506,Active,,,,
+7849228,Case Completed Successful,,,2025-07-18,2025-07-05
+6797138,Case Completed Failed,Dissatisfaction,2025-04-17,,
+7709219,Active,,,2025-04-09,2025-03-23
+1060704,Case Completed Successful,,,2025-05-15,2025-04-24
+2884620,Case Completed Failed,Financial Hardship,2025-03-03,,
+9416395,Tax Prep Docs Requested,,,2025-08-18,2025-08-01
+9921258,Pre-Activation,,,2025-08-11,2025-08-02
+4397351,Case Completed Failed,Financial Hardship,2025-06-02,,
+1021683,Case Completed Failed,Unresponsive,2025-09-20,,
+9759386,Active,,,2025-02-28,2025-02-15
+6209909,Active,,,2025-01-11,2025-01-01
+3807829,Case Completed Failed,Due to Non Payment,2025-02-04,,
+9575102,Resolution Docs Requested,,,2025-08-06,2025-07-20
+8451043,Case Completed Failed,Unresponsive,2025-06-26,,
+4444304,Case Completed Successful,,,2025-02-03,2025-01-22
+5427616,Tax Prep Docs Requested,,,,
+7993367,Case Completed Failed,Unresponsive,2025-01-01,2025-02-23,2025-02-12
+8852147,Case Completed Successful,,,2025-05-10,2025-04-22
+9909222,Resolution Docs Requested,,,2025-08-18,2025-07-28
+5823510,Active,,,,
+4360218,Case Completed Successful,,,,
+1345908,Case Completed Successful,,,2025-04-27,2025-04-14
+2764149,Case Completed Successful,,,,
+6159012,Case Completed Successful,,,2025-05-13,2025-04-25
+2267878,Tax Prep Docs Requested,,,2025-09-17,2025-08-29
+1536214,Case Completed Failed,Went directly through IRS,2025-07-13,,
+1978317,Active,,,,
+7992289,Case Completed Successful,,,2025-08-16,2025-08-03
+6028474,Case Completed Failed,Unresponsive,2024-12-24,2025-01-03,2024-12-22
+7194592,Active,,,,
+5952173,Case Completed Failed,Deceased,2025-01-19,2025-01-14,2025-01-01
+4254845,Tax Prep Docs Requested,,,,
+2679592,Active,,,2025-10-19,2025-10-07
+7621313,Active,,,2025-07-25,2025-07-09
+7684823,Case Completed Failed,Unresponsive,2025-05-23,,
+3889924,Tax Prep Docs Requested,,,,
+5442638,Case Completed Failed,Financial Hardship,2025-06-14,,
+8731315,Case Completed Failed,Unresponsive,2025-08-06,2024-10-04,2024-09-26
+6520657,Case Completed Failed,Due to Non Payment,2025-09-18,,
+3155346,Resolution Docs Requested,,,2025-01-15,2025-01-03
+3192171,Active,,,2024-11-14,2024-10-26
+8491840,Active,,,,
+7526710,Active,,,2025-09-18,2025-09-03
+8015611,Case Completed Failed,Dissatisfaction,2025-01-10,2025-02-03,2025-01-22
+4000337,Active,,,,
+7037099,Resolution Docs Requested,,,2024-12-02,2024-11-19
+5197117,Case Completed Successful,,,2025-06-03,2025-05-19
+4483143,Activation Call,,,,
+5589876,Tax Prep Docs Requested,,,2025-06-01,2025-05-21
+8770570,Active,,,,
+7419873,Case Completed Failed,Dissatisfaction,2025-12-19,2025-04-14,2025-03-31
+4081380,Activation Call,,,2025-08-23,2025-08-12
+9039197,Activation Call,,,2025-04-10,2025-03-27
+8991883,Case Completed Successful,,,,
+3843430,Case Completed Failed,Dissatisfaction,2025-01-17,,
+2254019,Case Completed Failed,Non-Compliance,2025-11-04,2025-06-23,2025-06-14
+9919834,Case Completed Successful,,,2025-10-20,2025-10-04
+5019368,Case Completed Failed,Non-Compliance,2025-09-05,2025-04-15,2025-04-04
+8715373,Case Completed Failed,Non-Compliance,2025-02-18,2024-09-19,2024-09-12
+9777418,Case Completed Failed,Financial Hardship,2025-03-16,2025-06-04,2025-05-21
+1258586,Tax Prep Docs Requested,,,,
+2927154,Active,,,2025-05-24,2025-05-14
+6532226,Resolution Docs Requested,,,,
+9290022,Tax Prep Docs Requested,,,,
+2210378,Active,,,2025-06-11,2025-06-04
+6632965,Active,,,2025-05-07,2025-04-19
+1066111,Resolution Docs Requested,,,2025-07-28,2025-07-16
+9942458,Case Completed Successful,,,2025-01-30,2025-01-15
+5619651,Case Completed Failed,Deceased,2025-08-16,,
+1201428,Active,,,2025-02-09,2025-02-01
+6353364,Pre-Activation,,,2024-08-12,2024-08-02
+7944741,Case Completed Successful,,,2024-09-02,2024-08-16
+5387869,Resolution Docs Requested,,,,
+3784753,Active,,,2025-12-11,2025-11-30
+3284258,Active,,,2024-12-19,2024-12-10
+1796723,Case Completed Failed,Non-Compliance,2025-02-13,2025-03-26,2025-03-16
+7664964,Active,,,2025-09-10,2025-08-30
+1606356,Tax Prep Docs Requested,,,,
+1801218,Active,,,2025-02-28,2025-02-18
+6744346,Case Completed Failed,Dissatisfaction,2026-02-08,2025-07-06,2025-06-27
+9578796,Tax Prep Docs Requested,,,,
+4858019,Activation Call,,,2025-05-28,2025-05-12
+5901557,Case Completed Failed,Went directly through IRS,2024-11-24,,
+3659469,Active,,,2024-10-03,2024-09-23
+8366557,Case Completed Failed,Non-Compliance,2024-09-03,2024-10-21,2024-10-08
+1964800,Case Completed Successful,,,2025-03-02,2025-02-18
+8008132,Tax Prep Docs Requested,,,2025-01-06,2024-12-21
+4852051,Case Completed Successful,,,,
+4162130,Resolution Docs Requested,,,,
+2965741,Case Completed Successful,,,2025-02-24,2025-02-10
+9131271,Pre-Activation,,,2025-03-01,2025-02-16
+3882944,Active,,,,
+5576848,Active,,,2024-11-12,2024-10-26
+5621970,Active,,,2024-10-20,2024-10-01
+7126514,Active,,,,
+2185233,Resolution Docs Requested,,,2025-01-14,2024-12-27
+4325914,Case Completed Failed,Financial Hardship,2025-01-14,2024-12-14,2024-12-06
+3913196,Case Completed Failed,Financial Hardship,2026-01-01,2025-06-18,2025-06-08
+6933805,Case Completed Failed,Non-Compliance,2025-07-11,,
+9975013,Activation Call,,,2025-05-31,2025-05-18
+2366722,Case Completed Failed,Non-Compliance,2025-05-23,,
+2905301,Tax Prep Docs Requested,,,2025-01-15,2025-01-02
+3108895,Active,,,2025-08-24,2025-08-13
+3297694,Activation Call,,,2025-02-05,2025-01-15
+3519897,Active,,,2025-01-17,2024-12-30
+2451372,Active,,,2025-03-26,2025-03-09
+1555061,Case Completed Successful,,,2025-05-13,2025-05-05
+9602233,Activation Call,,,2025-04-30,2025-04-18
+7362677,Pre-Activation,,,2025-07-02,2025-06-17
+3794477,Case Completed Successful,,,,
+6937601,Active,,,2025-04-25,2025-04-06
+4884873,Case Completed Failed,Due to Non Payment,2025-02-23,,
+3702956,Active,,,2025-06-14,2025-06-02
+6705795,Case Completed Successful,,,2025-07-24,2025-07-17
+1886030,Resolution Docs Requested,,,,
+6744554,Active,,,2025-01-04,2024-12-15
+8317158,Case Completed Successful,,,2025-02-28,2025-02-11
+4153952,Activation Call,,,2025-04-04,2025-03-25
+6158412,Case Completed Successful,,,,
+4012775,Activation Call,,,2025-05-31,2025-05-19
+2864550,Active,,,,
+3458965,Activation Call,,,2024-09-28,2024-09-08
+9330851,Active,,,,
+9744978,Pre-Activation,,,,
+1210344,Tax Prep Docs Requested,,,2025-07-10,2025-06-19
+4877119,Case Completed Failed,Dissatisfaction,2025-04-20,2025-05-08,2025-04-26
+7322273,Tax Prep Docs Requested,,,,
+2626825,Case Completed Successful,,,2025-11-20,2025-11-03
+4948586,Pre-Activation,,,,
+8446550,Case Completed Failed,Went directly through IRS,2025-12-15,,
+2345177,Case Completed Failed,Non-Compliance,2025-12-04,,
+3708399,Resolution Docs Requested,,,2024-10-16,2024-10-05
+3792949,Activation Call,,,2025-11-24,2025-11-08
+8447860,Case Completed Failed,Health Issues,2025-08-20,,
+7259847,Activation Call,,,2025-08-03,2025-07-14
+5244672,Tax Prep Docs Requested,,,2024-08-29,2024-08-13
+6257918,Tax Prep Docs Requested,,,2025-08-03,2025-07-26
+1765051,Case Completed Failed,Financial Hardship,2024-09-06,2024-09-09,2024-08-28
+7652611,Active,,,,
+1341923,Active,,,2024-11-17,2024-10-30
+6043862,Resolution Docs Requested,,,,
+3664691,Activation Call,,,2025-07-14,2025-06-24
+3227112,Case Completed Failed,Non-Compliance,2025-08-30,,
+1189407,Case Completed Failed,Non-Compliance,2025-07-10,2025-07-04,2025-06-27
+5792314,Case Completed Failed,Dissatisfaction,2026-01-30,,
+5961558,Case Completed Failed,No longer needs service,2024-12-25,,
+5867109,Active,,,2024-10-15,2024-09-24
+3073745,Pre-Activation,,,2025-01-25,2025-01-07
+9261828,Tax Prep Docs Requested,,,,
+8172200,Case Completed Successful,,,,
+2213005,Active,,,2025-05-19,2025-05-12
+1676033,Active,,,2025-06-03,2025-05-16
+6934806,Case Completed Failed,Unresponsive,2024-11-02,,
+3750700,Active,,,2025-02-23,2025-02-06
+6323845,Case Completed Failed,No longer needs service,2025-07-23,2024-11-12,2024-11-04
+6612555,Case Completed Failed,Due to Non Payment,2025-07-10,,
+6485392,Tax Prep Docs Requested,,,2025-06-20,2025-06-11
+1579934,Case Completed Successful,,,2025-04-20,2025-03-30
+7319231,Active,,,2025-07-29,2025-07-22
+5541160,Resolution Docs Requested,,,,
+4802306,Active,,,,
+3529118,Resolution Docs Requested,,,,
+1311073,Active,,,,
+5844829,Case Completed Failed,Due to Non Payment,2025-04-22,2025-05-24,2025-05-13
+7703235,Activation Call,,,2024-09-23,2024-09-05
+8031333,Tax Prep Docs Requested,,,,
+9594502,Resolution Docs Requested,,,2024-10-05,2024-09-16
+4822342,Active,,,2024-10-27,2024-10-18
+3921829,Case Completed Successful,,,2024-11-12,2024-10-25
+9793265,Case Completed Successful,,,2025-03-04,2025-02-13
+7816244,Case Completed Failed,Non-Compliance,2025-07-17,,
+1915575,Resolution Docs Requested,,,2025-09-01,2025-08-25
+4559502,Case Completed Successful,,,,
+5056147,Active,,,2024-10-02,2024-09-16
+5358834,Case Completed Successful,,,2025-07-17,2025-07-05
+3748702,Resolution Docs Requested,,,,
+2576328,Active,,,2024-11-14,2024-11-03
+8293246,Activation Call,,,2025-02-05,2025-01-20
+1072459,Case Completed Successful,,,2025-02-03,2025-01-16
+1481757,Activation Call,,,,
+4389603,Pre-Activation,,,,
+3210486,Active,,,2025-09-10,2025-08-31
+4015664,Active,,,2024-11-24,2024-11-11
+6041072,Tax Prep Docs Requested,,,2024-12-19,2024-11-30
+2027967,Case Completed Failed,No longer needs service,2024-10-08,,
+5271460,Tax Prep Docs Requested,,,2024-12-09,2024-11-18
+4074192,Pre-Activation,,,2025-03-05,2025-02-25
+8224753,Case Completed Successful,,,2024-11-20,2024-11-07
+3497231,Resolution Docs Requested,,,2025-01-31,2025-01-22
+1054016,Case Completed Failed,Due to Non Payment,2025-04-26,,
+1597275,Case Completed Successful,,,,
+9438571,Active,,,2025-06-02,2025-05-24
+7640849,Case Completed Failed,Non-Compliance,2025-06-06,,
+8486753,Activation Call,,,2025-06-08,2025-05-28
+2241887,Resolution Docs Requested,,,,
+3778914,Resolution Docs Requested,,,,
+4914399,Case Completed Successful,,,2025-06-16,2025-05-26
+6726369,Pre-Activation,,,2025-03-18,2025-02-27
+8292485,Resolution Docs Requested,,,2024-10-30,2024-10-14
+3216073,Active,,,2024-09-19,2024-08-30
+9022391,Tax Prep Docs Requested,,,,
+2526626,Case Completed Successful,,,,
+7200439,Resolution Docs Requested,,,2025-08-04,2025-07-16
+9421530,Case Completed Successful,,,2024-11-10,2024-10-31
+3682320,Case Completed Successful,,,,
+4902730,Resolution Docs Requested,,,,
+9130911,Activation Call,,,2025-08-27,2025-08-11
+4496347,Case Completed Failed,Non-Compliance,2025-06-26,,
+2685387,Case Completed Failed,Deceased,2024-12-30,,
+8320514,Active,,,2024-08-03,2024-07-18
+4383563,Case Completed Failed,Went directly through IRS,2025-05-04,,
+3912159,Pre-Activation,,,2024-11-15,2024-10-26
+3258445,Case Completed Failed,Due to Non Payment,2025-04-27,,
+8976183,Case Completed Failed,No longer needs service,2025-01-12,,
+5167795,Case Completed Failed,Health Issues,2025-05-07,2025-06-10,2025-05-30
+3892040,Resolution Docs Requested,,,2025-03-09,2025-02-17
+5303837,Case Completed Successful,,,,
+3815936,Case Completed Successful,,,,
+9654123,Case Completed Successful,,,2025-01-16,2025-01-03
+9464126,Case Completed Failed,Health Issues,2024-09-20,2024-12-11,2024-12-02
+2296018,Activation Call,,,,
+4938283,Pre-Activation,,,2025-02-26,2025-02-07
+5035002,Case Completed Failed,Health Issues,2025-10-12,,
+9799485,Case Completed Successful,,,2025-06-21,2025-06-12
+4804654,Active,,,2024-09-29,2024-09-14
+8063161,Active,,,2025-08-20,2025-07-30
+7634218,Activation Call,,,2025-04-04,2025-03-27
+9797517,Resolution Docs Requested,,,2025-09-12,2025-08-22
+2216051,Activation Call,,,2025-01-13,2024-12-28
+5053742,Case Completed Successful,,,,
+5202648,Tax Prep Docs Requested,,,,
+6436418,Resolution Docs Requested,,,2024-10-18,2024-10-04
+6606762,Active,,,,
+9316401,Case Completed Failed,Due to Non Payment,2024-09-05,,
+4172382,Case Completed Successful,,,2025-02-09,2025-01-27
+2628028,Resolution Docs Requested,,,2024-11-05,2024-10-16
+1496608,Pre-Activation,,,,
+1641560,Case Completed Successful,,,2025-07-14,2025-07-04
+8327580,Pre-Activation,,,2025-09-14,2025-09-03
+2042761,Active,,,2024-11-11,2024-10-24
+6288028,Resolution Docs Requested,,,2024-12-09,2024-11-21
+4181353,Case Completed Failed,Due to Non Payment,2026-05-11,,
+1838399,Activation Call,,,2024-12-02,2024-11-22
+5913264,Active,,,,
+4105754,Active,,,2025-06-23,2025-06-05
+5500094,Case Completed Successful,,,,
+5276786,Active,,,,
+1170060,Case Completed Failed,Unresponsive,2025-02-10,,
+9897200,Activation Call,,,,
+5954854,Case Completed Failed,Due to Non Payment,2025-03-01,,
+4292361,Active,,,2025-06-13,2025-05-23
+7115964,Active,,,2024-09-10,2024-08-29
+2913881,Active,,,2025-06-01,2025-05-15
+3672535,Tax Prep Docs Requested,,,2025-06-24,2025-06-07
+6780908,Case Completed Failed,Financial Hardship,2025-01-13,,
+7530333,Active,,,,
+3387271,Pre-Activation,,,,
+6118052,Case Completed Failed,Due to Non Payment,2024-11-13,,
+9906289,Case Completed Successful,,,,
