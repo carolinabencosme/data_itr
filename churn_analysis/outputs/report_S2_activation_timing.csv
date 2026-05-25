@@ -1,0 +1,4 @@
+activation_timing_category,churned_clients,churn_revenue,pct_total_churn_clients,pct_total_churn_revenue
+Before Activation,17,224610.0,18.0851,18.443
+After Activation,14,225720.0,14.8936,18.5342
+No Activation Date Available,63,767530.0,67.0213,63.0228
